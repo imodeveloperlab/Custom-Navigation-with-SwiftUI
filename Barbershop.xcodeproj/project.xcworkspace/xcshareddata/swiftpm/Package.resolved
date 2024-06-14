@@ -1,0 +1,33 @@
+{
+  "originHash" : "5efa37f23c582578f9014f4dd3ccaa84353861f7c866d2d9667c21ec93c05058",
+  "pins" : [
+    {
+      "identity" : "dskit-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:imodeveloperlab/dskit-swiftui.git",
+      "state" : {
+        "revision" : "322a66ac09e3084a3698df915f208e2ce0684890",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "b8523c1642f3c142b06dd98443ea7c48343a4dfd",
+        "version" : "5.19.3"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "53573d6dd017e354c0e7d8f1c86b77ef1383c996",
+        "version" : "2.2.7"
+      }
+    }
+  ],
+  "version" : 3
+}
