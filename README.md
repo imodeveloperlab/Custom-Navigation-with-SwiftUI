@@ -2,6 +2,10 @@
 
 This repository provides a prototype and demonstration of how to create custom navigations using SwiftUI. It includes a custom navigation manager, a custom navigation view, and a custom navigation link, showcasing the use of `matchedGeometryEffect` for smooth and seamless transitions.
 
+## About
+
+This repository provides a prototype for creating custom navigations using SwiftUI. It features smooth transitions with `matchedGeometryEffect` and includes the Barbershop project as a practical example to showcase its capabilities. This example UI is created using the [DSKit framework](https://github.com/imodeveloperlab/dskit-swiftui), which provides flexible and customizable components for SwiftUI development.
+
 <img src="demo.gif" width="300">
 
 ## Overview
